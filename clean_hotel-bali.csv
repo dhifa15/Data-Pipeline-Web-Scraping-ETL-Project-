@@ -1,0 +1,75 @@
+hotel_id,nama_hotel,lokasi,rating,kategori_rating,spesial_promo,harga
+1,Aksmi Suites & Villas,Bedahulu,9.0,Wonderful,Limited-time Deal,3037500
+2,Villa Mahayoni,Bedahulu,9.8,Exceptional,Early 2026 Deal,2368800
+3,Kelingking Parama Resort,batumadeg,9.4,Wonderful,,3427686
+4,Kelingking Puri Suci Villa,batumadeg,9.1,Wonderful,Late Escape Deal,2347650
+5,Sky Star Ocean View Uluwatu,"Ungasan, Uluwatu",10.0,Exceptional,,9355135
+6,The Fire Flies Garden Villa,Penginyahan,9.8,Exceptional,Early 2026 Deal,4800000
+7,Bali De Pardis Cottage,Munduk,9.3,Wonderful,,2373000
+8,Lumbung River Ubud Villas,Blahbatu,9.6,Exceptional,,1807142
+9,Collection O Bali near Terminal Ubung formerly Batukaru Garden Hotel,"Cokroaminto, Kesiman (Cokroaminto)",9.2,Wonderful,Late Escape Deal,684534
+10,The Aroma Villa Munduk,Mayong,9.6,Exceptional,,3299400
+11,007 Surfhouse Bali,"Ungasan, Uluwatu",8.9,Excellent,,1650000
+12,AA Inn Kuta Beach,"Kartika Plaza, Ngurah Rai International Airport (Kartika Plaza)",8.5,Very Good,Late Escape Deal,1423803
+13,Hotel O Sekar Jagat Near Pantai Baluk Rening,Negara,8.3,Very Good,,169399
+14,Dune Seseh,Munggu,9.3,Wonderful,,5898566
+15,Umah Anyar Villas Ubud,Bedahulu,9.6,Exceptional,,2782094
+16,Samah Villas,"Jungut Batu, Nusa Lembongan",9.8,Exceptional,,12109091
+17,Boujee Boutique Hotel,"Jungut Batu, Nusa Lembongan",9.7,Exceptional,,4200000
+18,The Tandibayang Hotel & Villas,"Padma, Badung (Padma)",8.5,Very Good,,2264515
+19,The Hidden Valley,Besakih,9.0,Wonderful,Late Escape Deal,1585636
+20,HARRIS Hotel Kuta Tuban Bali,Kuta,8.3,Very Good,,3900000
+21,Su Casa Boutique Hotel Lembongan,"Jungut Batu, Nusa Lembongan",9.1,Wonderful,,3216498
+22,Sawah Indah Villa,Sidemen,9.1,Wonderful,,5984250
+23,Abian Ayu Villa,Sidemen,9.3,Wonderful,,3159000
+24,Handara Golf & Resort Bali,Bedugul,8.2,Very Good,,15453156
+25,Nadya Homestay,Munduk,8.6,Excellent,,1746360
+26,Harsa Eco Luxury Camp,Gobleg,9.0,Wonderful,,3666000
+27,Hotel Arda Bali,Negara,9.7,Exceptional,,609120
+28,Magic Hills Bali - Magical Eco-Luxury Lodge,Selat,8.7,Excellent,Early 2026 Deal,10296000
+29,Garden Terrace Bali,Gobleg,9.8,Exceptional,Early 2026 Deal,2805000
+30,Araya villa saba,Saba,9.0,Wonderful,Early 2026 Deal,1326000
+31,Absolute Scuba Bali Dive Resort,Padangbai,8.3,Very Good,,3600000
+32,Bay Shore Huts,"Jungut Batu, Nusa Lembongan",8.7,Excellent,Late Escape Deal,3475814
+33,The Village of Angels - New Year's Offer,Manggis,8.4,Very Good,Late Escape Deal,4358869
+34,Adhi Jaya Suite,Jatiluwih,8.1,Very Good,,830909
+35,Siddhartha Oceanfront Resort & Spa Bali,Tulamben,9.1,Wonderful,,5700000
+36,The Point Resort Lembongan,"Jungut Batu, Nusa Lembongan",8.9,Excellent,,7159812
+37,Beachfront Glamping - Escape in Nature,Tianyar,9.1,Wonderful,,4267072
+38,Besakih Homestay & Villa,Besakih,8.8,Excellent,,1128845
+39,The Blue Lagoon Villas,"Nusa Ceningan, Nusa Ceningan (Nusa Ceningan)",8.2,Very Good,Late Escape Deal,1047273
+40,InterContinental Bali Resort by IHG,"Jimbaran Bay, Jimbaran",9.0,Wonderful,Early 2026 Deal,17342491
+41,Taman Sari Bali Resort and Spa,Pemuteran,9.0,Wonderful,,4860778
+42,nyoman sekumpul house,Sudaji,9.8,Exceptional,,818182
+43,Cucukan Beach Guest House,Gianyar,9.5,Exceptional,Early 2026 Deal,2093850
+44,D&D homestay,Pesanggaran,8.5,Very Good,,1869660
+45,Mimpi Resort Tulamben,Tulamben,8.8,Excellent,,6173756
+46,De Umah Bali Eco Tradi Home,Bangli,8.8,Excellent,,1340064
+47,"Pitu, a Punggul Village Escape","Taman, Sangeh",9.7,Exceptional,Early 2026 Deal,6960000
+48,"OCEANNA - Uluwatu, Bali","Pecatu, Uluwatu",8.9,Excellent,,3690323
+49,Villa Togog,Penebel,8.7,Excellent,,7191000
+50,Elmon Ricefield Hotel,"Babakan, Tumbak Bayuh (Babakan)",10.0,Exceptional,Late Escape Deal,2702150
+51,Apartemen JIRO BALI,"Jimbaran Bay, Ngurah Rai International Airport",9.2,Wonderful,,1636364
+52,Wanagiri Campsite,Gitgit,8.8,Excellent,,769500
+53,Wanagiri sunset glamping,Gitgit,8.6,Excellent,,1890000
+54,Mo Cactus by Bukit Vista,"Babakan, Tumbak Bayuh (Babakan)",8.6,Excellent,,1475124
+55,The Farm Nusa,Sampalan,8.4,Very Good,,1145455
+56,Pondok Wisata Grya Sari,Banjar,9.0,Wonderful,,900000
+57,Kelingking Green Village,batumadeg,9.2,Wonderful,,3238868
+58,Senada Garden,"Pecatu, Uluwatu",10.0,Exceptional,Late Escape Deal,15839661
+59,green slope villa glamping,Gitgit,8.8,Excellent,,2092515
+60,Casa Verde Guest House,Sempidi,9.1,Wonderful,,1518725
+61,Munduk Pondok Canopee,Ambengan,9.3,Wonderful,,1785000
+62,GreatiStay Living&Working Canggu,"Babakan, Tumbak Bayuh (Babakan)",8.8,Excellent,Late Escape Deal,1296000
+63,Lushy Hostel Nusa Penida,Nusa Penida,8.7,Excellent,,1442430
+64,Pinggan Plato,Baturaja,8.1,Very Good,,3600000
+65,Three Brothers Munggu Villas and Suites Seseh Beach,Pererenan,,,,3525000
+66,Elemento Homestay Badung,Bringkit,8.3,Very Good,,1115753
+67,The Macaw Ubud Green Uma Villa,Blahbatu,9.8,Exceptional,Limited-time Deal,2891700
+68,Capital O 93236 Hotel Hapel Negara,Banyubiru,8.3,Very Good,,170069
+69,"NORI Boutique Villas, Near Nyang Nyang Beach, Uluwatu","Pecatu, Uluwatu",10.0,Exceptional,Late Escape Deal,8546892
+70,Villa Markisa Pakisan,Sawan,9.7,Exceptional,,1252555
+71,LA Beach Nusa Penida,Nusa Penida,8.6,Excellent,,1701000
+72,Nido Boutique Cottage Canggu,"Babakan, Tumbak Bayuh (Babakan)",10.0,Exceptional,,3780000
+73,Graha Shanti Guest House,Pulau Serangan,9.0,Wonderful,,1227273
+74,Umadewi Surf & Retreat,"Medewi, Pulukan",9.4,Wonderful,,3164663
